@@ -35,14 +35,13 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.util.ElapsedTime;
 //Test
 //testbranch
-// change made after ignore
 
 /**
  * Demonstrates empty OpMode
  */
 @Autonomous(name = "JNullOp")
 @Disabled
-public class JNullOp extends OpMode {
+public class JTest1 extends OpMode {
 
   private ElapsedTime runtime = new ElapsedTime();
 
